@@ -151,7 +151,7 @@
   <project name="platform/hardware/qcom/display" path="hardware/qcom/display" revision="2a1a2869b7d8e512c0fe4d74e03cb00ea4722629"/>
   <project name="platform/hardware/qcom/keymaster" path="hardware/qcom/keymaster" revision="584f1e418478f412b0d47bbaab35e34fca38ade7"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="eef7d1a3d4b1584e62424ce06fee4c70f2edf9bb"/>
-  <project name="platform/hardware/qcom/msm8960" path="hardware/qcom/msm8960" revision="d83994c239bc19bc2532f9df448d141a97cccc9c"/>
+  <project name="platform/hardware/qcom/msm8960" path="hardware/qcom/msm8960" revision="8f23611b843eacc3177b31987f3708b4c3b33621"/>
   <project name="platform/hardware/qcom/power" path="hardware/qcom/power" revision="f8c9e51bd67c04ce4c19bf0515204118ea6b322a"/>
   <project name="platform/hardware/qcom/sensors" path="hardware/qcom/sensors" revision="ef6ad16db4e9f796da493edfba600b9073b72eeb"/>
   <project name="platform/hardware/qcom/wlan" path="hardware/qcom/wlan" revision="40d2275d17714cd524503b7080ff7bfcde134752"/>
